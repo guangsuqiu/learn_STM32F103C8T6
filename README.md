@@ -4,7 +4,8 @@
 
 ## Tips
 
-* 文件最后一行必须为空行，否则会报`User\main.c(21): warning:  #1-D: last line of file ends without a newline`警告。
+* 文件最后一行必须为空行，否则会报`Xxxx\xxx.c(xx): warning:  #1-D: last line of file ends without a newline`警告。
+* LED引脚区分：长引脚为正极，短引脚为负极。
 * 第一次Download前，需要点击魔术棒，选择Debug，选择ST-Link Debugger右侧的Settings，选择Flash Download，选中Reset and Run。
 
 ## 相关链接
